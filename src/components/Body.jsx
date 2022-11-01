@@ -2,7 +2,7 @@ import slackImage from "../assets/slack.png"
 import githubImage from "../assets/github-icon.png"
 
 export default function Body() {
-    const twitterLink = "https://twitter.com/DamilolaAbiona";
+    const twitterLink = "https://twitter.com/DamilolaAbiona8";
     const zuriTraining = "https://training.zuri.team/"
     const books = "http://books.zuri.team/";
     const book_python = "https://books.zuri.team/python-for-beginners?ref_id=Damilola";
